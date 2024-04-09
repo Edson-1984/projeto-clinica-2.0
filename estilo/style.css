@@ -195,9 +195,8 @@ section.procedimentos .flex {
 }
 
 .procedimentos .servicos-box {
-    overflow: auto;
+    overflow-y: hidden;
     width: 350px;
-    height: 400px;
     color: white;
     padding: 20px;
     border-radius: 20px;
